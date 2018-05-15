@@ -1,15 +1,8 @@
 # weather
 
-<p>My Github account:<br>
-https://github.com/mattjrutter/weather
+This is a final project from a Web Design III class that uses the Laravel Framework.
 
-Website:<br>
-<a href="mattjrutter.tech">mattjrutter.tech</a>
-
-I'm going to keep the website live, especially for my own use.<br>
-For access to logged in features, use Jane Doe's login:<br>
-Email: test@gmail.com<br>
-Password: password
+This website gets data from my personal weather station and displays easy to read charts. Some features are locked behind a login so a user must login to use those. There is also a forum for users to post messages to.
 
 The controllers that do most of the processing are inside "app>Http>Controllers"<br>
 	Especially "PagesController" and the "PostsController"
